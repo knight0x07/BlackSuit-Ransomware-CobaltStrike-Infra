@@ -1,0 +1,2 @@
+# BlackSuit_CobaltStrike_Infra
+BlackSuit Ransomware Cobalt Strike Infrastructure
